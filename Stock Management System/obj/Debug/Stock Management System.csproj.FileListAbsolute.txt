@@ -1,0 +1,14 @@
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe.config
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Stock Management System.exe
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Stock Management System.pdb
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csprojResolveAssemblyReference.cache
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Loading.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Login.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Properties.Resources.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock Management System.csproj.GenerateResource.Cache
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock Management System.exe
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock Management System.pdb
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Forgotpassword.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Newuser.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Dashboard.resources
+c:\users\aduragbemi\documents\visual studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Stock_Management_System.Addnewproduct.resources

@@ -1,0 +1,60 @@
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Brothers Motors.exe.config
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\bin\Debug\Brothers Motors.pdb
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers Motors.csprojResolveAssemblyReference.cache
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Properties.Resources.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers Motors.csproj.GenerateResource.Cache
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers Motors.pdb
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Dashboard.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Forgotpassword.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Loading.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Login.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Newuser.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Addnewproduct.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Purchaseentry.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Salesentry.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Purchaselist.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Purchaseproductin.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Salesitemhistory.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Stockin.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Salesinvoice.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Commissionpayment.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Newquotation.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System\Stock Management System\obj\Debug\Brothers_Motors.Salesreturn.resources
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System - Copy\Stock Management System\bin\Debug\Brothers Motors.exe.config
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System - Copy\Stock Management System\obj\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System - Copy\Stock Management System\obj\Debug\Brothers Motors.pdb
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System1\Stock Management System\bin\Debug\Brothers Motors.exe.config
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Documents\Visual Studio 2012\Projects\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.pdb
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\bin\Debug\Brothers Motors.exe.config
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\bin\Debug\Brothers Motors.exe
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\bin\Debug\Brothers Motors.pdb
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Addnewnotebook.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Commissionpayment.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Dashboard.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Forgotpassword.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Get_Data_Sales_invoice.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Loading.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Login.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Newquotation.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Newuser.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Properties.Resources.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Addnewproduct.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Purchase_Cost_Calculation.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Purchaseentry.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Purchaselist.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Purchaseproductin.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Purchasereturn.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Salesentry.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Salesinvoice.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Salesitemhistory.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Salesreturn.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.Stockin.resources
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.exe
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.pdb
+C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.product_category.resources
