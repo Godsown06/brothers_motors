@@ -92,7 +92,6 @@
             this.label18 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.timerpopulatecategory = new System.Windows.Forms.Timer(this.components);
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.picProductImg)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -295,7 +294,7 @@
             this.label16.AutoSize = true;
             this.label16.Location = new System.Drawing.Point(225, 344);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(46, 17);
+            this.label16.Size = new System.Drawing.Size(44, 17);
             this.label16.TabIndex = 60;
             this.label16.Text = "VAT %";
             // 
@@ -815,21 +814,11 @@
             this.timerpopulatecategory.Enabled = true;
             this.timerpopulatecategory.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // comboBox1
-            // 
-            this.comboBox1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(651, 344);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 25);
-            this.comboBox1.TabIndex = 7;
-            // 
             // Addnewproduct
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(784, 511);
-            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.paImportExcel);
             this.Controls.Add(this.btnImportExcel);
             this.Controls.Add(this.groupBox2);
@@ -924,6 +913,5 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button btnGenerate;
         private System.Windows.Forms.Timer timerpopulatecategory;
-        private System.Windows.Forms.ComboBox comboBox1;
     }
 }

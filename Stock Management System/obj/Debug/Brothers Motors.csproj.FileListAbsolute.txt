@@ -58,3 +58,32 @@ C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Ma
 C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.exe
 C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers Motors.pdb
 C:\Users\user\Desktop\Stock Management System1\Stock Management System1\Stock Management System\obj\Debug\Brothers_Motors.product_category.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\bin\Debug\Brothers Motors.exe.config
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers Motors.pdb
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\bin\Debug\Brothers Motors.exe
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\bin\Debug\Brothers Motors.pdb
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers Motors.csprojResolveAssemblyReference.cache
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Addnewnotebook.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Commissionpayment.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Dashboard.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Forgotpassword.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Get_Data_Sales_invoice.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Loading.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Login.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Newquotation.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Newuser.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.product_category.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Properties.Resources.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Addnewproduct.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Purchase_Cost_Calculation.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Purchaseentry.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Purchaselist.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Purchaseproductin.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Purchasereturn.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Salesentry.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Salesinvoice.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Salesitemhistory.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Salesreturn.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers_Motors.Stockin.resources
+C:\Users\ADURAGBEMI\Desktop\brothers_motors\Stock Management System\obj\Debug\Brothers Motors.csproj.GenerateResource.Cache

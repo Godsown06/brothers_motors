@@ -15,8 +15,8 @@ namespace Brothers_Motors
         static void Main()
         {
             Application.EnableVisualStyles();
+            Application.Run(Dashboard.dashboard);
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Purchaseentry());
         }
     }
 }

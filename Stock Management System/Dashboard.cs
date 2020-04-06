@@ -11,11 +11,18 @@ using System.Windows.Forms;
 namespace Brothers_Motors
 {
     public partial class Dashboard : Form
+
+
+   
     {
+
+        public static Dashboard dashboard = new Dashboard();
+
         public Dashboard()
         {
             InitializeComponent();
             this.Opacity = 0;
+            dashboard.Show(); 
         }
 
         private void Dashboard_FormClosing(object sender, FormClosingEventArgs e)

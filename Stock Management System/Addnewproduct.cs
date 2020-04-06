@@ -249,7 +249,7 @@ namespace Brothers_Motors
                 SqlCommand cmd = new SqlCommand("insert into add_new_product values('" + txtProductCode.Text + "','" + txtProductName1.Text + "','" + txtProductName2.Text + "','" + txtCode.Text + "','" + cmbCategory.Text + "','" + cmbSubCategory.Text + "','" + txtDescription.Text + "','" + txtPurchase.Text + "','" + txtDiscount.Text + "','" + txtSalesRate.Text + "','" + txtReorderPoint.Text + "','" + txtOpeningStock.Text + "','" + txtBarcode.Text + "','" + cmbPurchaseUnit.Text + "','" + cmbSalesUnit.Text + "',@image)", con);
                 MemoryStream ms = new MemoryStream();
                 picProductImg.Image.Save(ms, picProductImg.Image.RawFormat);
-                cmd.Parameters.Add("@image", ms.ToArray());
+                cmd.Parameters.Add("@image", SqlDbType.Image).Value = ms.ToArray();
                 cmd.ExecuteNonQuery(); con.Close(); MessageBox.Show("Product Sucessfully Added", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch (Exception) { }
@@ -519,7 +519,7 @@ namespace Brothers_Motors
 
         private void btnImportExcel_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            //this.Hide();
             paImportExcel.Visible = true;
             paImportExcel.Location = new Point(33, 83);
             paImportExcel.Size = new Size(701, 382);
